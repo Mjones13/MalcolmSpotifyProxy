@@ -16,5 +16,8 @@
     "mongoose": "^5.2.15",
     "nodemon": "^1.18.4",
     "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "newrelic": "^4.9.0"
   }
 }
