@@ -1,0 +1,6 @@
+# Ignoring node modules
+node_modules
+
+#Ignore newrelic info & API Key
+newrelic.js
+newrelic_agent.log
